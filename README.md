@@ -1,4 +1,3 @@
 # Myfirstproject
 
 
-HELLO EVERYONE 
